@@ -8,9 +8,6 @@ Othello AI implemented using the Minimax Algorithm with alpha beta pruning. Plac
 Implemented in: C++
 
 Files:
-myOthelloAI.cpp
-    MAIN CODING SAMPLE
-myOthelloAI.hpp
-    Header File
-main.cpp
-    Main File to run the program
+myOthelloAI.cpp -  MAIN CODING SAMPLE
+myOthelloAI.hpp -  Header File
+main.cpp - Main File to run the program
